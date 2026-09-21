@@ -1,3 +1,11 @@
+Name: Mohamed Osama
+GitHub username: MohamedOsama122
+Learning track: Web Development
+GitHub profile URL: https://github.com/MohamedOsama122
+Calculator repository URL: https://github.com/MohamedOsama122/calculator
+Website folder path: students/MohamedOsama122/
+Website idea: Profile Card with LeetCode Profile and Problem Submission Links
+LeetCode Profile: https://leetcode.com/u/Mohamed_222/
 # Mohamed Osama Assignment2 Contributors
 
 This repository is Mohamed Osama's Assignment2 contributor website project. Mohamed's contributor website is located at `students/MohamedOsama122/index.html`.
